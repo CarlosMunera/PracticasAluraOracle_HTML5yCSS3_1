@@ -1,4 +1,6 @@
-body {}
+.titulo-principal {
+    padding-left: 30px;
+}
 
 #banner {
     width: 100%;
@@ -9,9 +11,8 @@ body {}
     padding: 20px;
 }
 
-h1 {
+.titulo-centralizado {
     text-align: center;
-    background: #CCCCCC;
 }
 
 p {
