@@ -1,9 +1,12 @@
-body {
-    background-color: #cccccc;
-}
+body {}
 
 #banner {
     width: 100%;
+}
+
+.principal {
+    background-color: #cccccc;
+    padding: 20px;
 }
 
 h1 {
@@ -24,4 +27,26 @@ em strong {
     font-size: 20px;
 }
 
-#banner {}
+.diferenciales {
+    background-color: #FFFFFF;
+    padding: 30px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.items {
+    font-style: italic;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales {
+    width: 50%;
+}
